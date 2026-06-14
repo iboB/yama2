@@ -1,15 +1,20 @@
-# cpp-lib-template
+# Yama
 
-[![Standard](https://img.shields.io/badge/C%2B%2B-23-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B23) [![Standard](https://img.shields.io/badge/C-11-purple.svg)](https://en.wikipedia.org/wiki/C11) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Language](https://img.shields.io/badge/language-C++-blue.svg)](https://isocpp.org/) [![Standard](https://img.shields.io/badge/C%2B%2B-20-blue.svg)](https://cppreference.com/cpp/20) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-A template for a C++ library
+[![Build](https://github.com/iboB/yama/workflows/Build/badge.svg)](https://github.com/iboB/yama/actions?query=workflow%3ABuild)
+
+Yama (Yet Another MAthematical library) is simple header-only mathematical library of small types for linear algebra, and spacial ops (mostly game programming).
+
+## Usage
+
+The library is header-only. To use it, you need to add its include directory in your include paths, then include `<yama.hpp>`
+
+## Contributing
+
+Contributions in the form of issues and pull requests are welcome.
 
 ## License
+The library is distributed under the MIT Software License. See LICENSE.txt for further details or copy [here](http://opensource.org/licenses/MIT).
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-This software is distributed under the MIT Software License.
-
-See accompanying file LICENSE or copy [here](https://opensource.org/licenses/MIT).
-
-Copyright &copy; 2026 [Borislav Stanimirov](http://github.com/iboB)
+Copyright &copy; 2016-2026 Borislav Stanimirov.
