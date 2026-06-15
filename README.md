@@ -4,7 +4,7 @@
 
 [![Build](https://github.com/iboB/yama/workflows/Build/badge.svg)](https://github.com/iboB/yama/actions?query=workflow%3ABuild)
 
-Yama (Yet Another MAthematical library) is simple header-only mathematical library of small types for linear algebra, and spacial ops (mostly game programming).
+Yama (Yet Another MAthematical library) is a header-only mathematical library of small types for linear algebra, and spatial ops (mostly game programming).
 
 ## Usage
 
