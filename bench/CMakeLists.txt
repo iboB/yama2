@@ -1,7 +1,7 @@
 # Copyright (c) Borislav Stanimirov
 # SPDX-License-Identifier: MIT
 #
-CPMAddPackage(gh:iboB/picobench@2.8.0)
+CPMAddPackage(gh:iboB/picobench@2.9.0)
 CPMAddPackage(gh:iboB/splat@1.3.5)
 CPMAddPackage(gh:iboB/itlib@1.12.2)
 
